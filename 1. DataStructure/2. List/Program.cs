@@ -25,7 +25,7 @@ class Program
         }
 
         // Kiểm tra xem một phần tử có tồn tại trong List hay không
-        string searchFruit = "Cherry";
+        string searchFruit = "Wiliam Thomas";
         bool exists = fruits.Contains(searchFruit);
         Console.WriteLine(searchFruit + " exists in the list: " + exists); 
 
