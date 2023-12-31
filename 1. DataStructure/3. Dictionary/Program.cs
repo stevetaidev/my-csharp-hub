@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-
+/*
+ Dictionary: Dictionary là một tập hợp các cặp khóa-giá trị, 
+trong đó mỗi khóa là duy nhất và được sử dụng để tra cứu giá trị tương ứng. 
+Dictionary thường được sử dụng để thực hiện tìm kiếm nhanh chóng.
+ */
 class Program
 {
     static void Main()
