@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-
+/*
+Stack: Stack cũng là một cấu trúc dữ liệu hàng đợi, 
+nhưng hoạt động theo nguyên tắc "last-in-first-out" (LIFO). 
+Phần tử được thêm vào stack sau cùng sẽ được lấy ra đầu tiên.
+ */
 class Program
 {
     static void Main()
