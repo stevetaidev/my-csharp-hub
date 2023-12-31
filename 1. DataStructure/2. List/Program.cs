@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-
+/*
+List: List là một danh sách có thể thay đổi kích thước linh hoạt, 
+được triển khai bằng cách sử dụng mảng nội bộ. 
+List có nhiều phương thức hữu ích cho việc thêm, xóa và truy xuất phần tử.
+ */
 class Program
 {
     static void Main()
