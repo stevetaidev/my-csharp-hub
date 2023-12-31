@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections;
-
+/*
+Queue: Queue là một cấu trúc dữ liệu hàng đợi, hoạt động theo nguyên tắc "first-in-first-out" (FIFO). 
+Phần tử được thêm vào hàng đợi trước sẽ được lấy ra đầu tiên.
+ */
 class Program
 {
     static void Main()
