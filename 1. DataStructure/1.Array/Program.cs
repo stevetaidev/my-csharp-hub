@@ -1,4 +1,10 @@
-﻿// Declare an integer array with 5 elements
+﻿
+/*
+Mảng (Array): Mảng là một tập hợp các phần tử có cùng kiểu dữ liệu, 
+được lưu trữ liên tiếp trong bộ nhớ. 
+Các phần tử trong mảng có thể truy cập bằng chỉ số.
+ */
+// Declare an integer array with 5 elements
 int[] numbers = new int[5];
 int[] number2 = { 1, 2, 3, 4, 5 };
 // Initialize values for the array
